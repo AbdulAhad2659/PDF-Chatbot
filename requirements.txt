@@ -1,0 +1,10 @@
+PyPDF2
+dotenv
+langchain
+langchain_core
+langchain_text_splitters
+langchain_community
+langchain_groq
+fastapi
+uvicorn
+python-multipart
