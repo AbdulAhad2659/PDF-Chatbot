@@ -79,6 +79,11 @@ Open your web browser and navigate to:
 ```text
 http://localhost:8000
 ```
+Or, you can access the deployed application by going to the following address:
+```text
+http://52.45.76.247:8000/
+```
+
 You should now be able to use the PDF Question Answering Chatbot.
 
 ### Stopping the Application
