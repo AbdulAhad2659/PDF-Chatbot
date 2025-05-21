@@ -1,6 +1,6 @@
 # PDF-Chatbot
 
-This project is a web-based chatbot application that allows users to upload PDF documents and ask questions related to their content. The backend is built with FastAPI and leverages Langchain with Groq for Large Language Model (LLM) powered question answering and ChromaDB for in-memory vector storage. The frontend is a simple HTML, CSS, and JavaScript interface.
+This project is a web-based chatbot application that allows users to upload PDF documents and ask questions related to their content. The backend is built with FastAPI and leverages Langchain with Llama3 via Groq for Large Language Model (LLM) powered question answering and ChromaDB for in-memory vector storage. The frontend is a simple HTML, CSS, and JavaScript interface.
 
 ## Features
 
