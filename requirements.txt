@@ -8,3 +8,5 @@ langchain_groq
 fastapi
 uvicorn
 python-multipart
+sentence-transformers
+chromadb
