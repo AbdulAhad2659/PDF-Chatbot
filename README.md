@@ -114,3 +114,9 @@ The application uses the following environment variables:
 GROQ_API_KEY
 ```
 Your API key for accessing Groq LLM services. This must be set in the .env file or passed directly to the Docker container.
+To get an API key, create an account at Groq and go to the following link to create a Groq API key:
+
+```text
+https://console.groq.com/keys
+```
+Set this key value in the .env to ensure the Docker container can access the key via environmet variable.
